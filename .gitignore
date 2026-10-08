@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python cache
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
